@@ -1,3 +1,1 @@
-function helloWorld() {
-    alert("hello!")
-}
+// app.js
